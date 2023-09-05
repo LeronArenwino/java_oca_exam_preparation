@@ -1,4 +1,4 @@
-package module1;
+package youtube.module1_building_blocks;
 
 /** El comando javac permite realizar la compilación del código, mientras que el comando java permite realizar la ejecución de una clase compilada previamente.
  */

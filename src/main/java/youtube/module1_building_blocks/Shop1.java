@@ -1,4 +1,4 @@
-package module1; /**
+package youtube.module1_building_blocks; /**
  * Los imports de java.lang son redundantes, dado que Java lo hace automáticamente.
  */
 

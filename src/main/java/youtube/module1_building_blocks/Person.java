@@ -1,4 +1,4 @@
-package module1;
+package youtube.module1_building_blocks;
 
 /** Una clase es una plantilla para la creación de objetos.
  * <p>

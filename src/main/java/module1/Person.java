@@ -1,3 +1,5 @@
+package module1;
+
 /** Una clase es una plantilla para la creación de objetos.
  * <p>
  * Está conformada por atributos (variables) y métodos (funciones).

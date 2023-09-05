@@ -1,3 +1,5 @@
+package module1;
+
 /** El comando javac permite realizar la compilación del código, mientras que el comando java permite realizar la ejecución de una clase compilada previamente.
  */
 public class Shop {
